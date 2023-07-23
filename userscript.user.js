@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         r/place Hypixel Overlay
 // @namespace    http://tampermonkey.net/
-// @version      1.10
+// @version      1.11
 // @description  r/place overlay with an autoplacer.
 // @author       Antonio32A
 // @credits      oralekin, exdeejay (xDJ_), 101arrowz
