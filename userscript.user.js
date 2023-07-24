@@ -42,6 +42,10 @@ const COLORS = {
         name: "Yellow",
         index: 4
     },
+    0xFFF8B8: {
+        name: "Pale Yellow",
+        index: 5
+    },
     0x00A368: {
         name: "Dark Green",
         index: 6
@@ -61,6 +65,10 @@ const COLORS = {
     0x009EAA: {
         name: "Teal",
         index: 10
+    },
+    0x00CCC0: {
+        name: "Light Teal",
+        index: 11
     },
     0x2450A4: {
         name: "Dark Blue",
@@ -82,6 +90,10 @@ const COLORS = {
         name: "Periwinkle",
         index: 16
     },
+    0x94B3FF: {
+        name: "Lavender",
+        index: 17
+    },
     0x811E9F: {
         name: "Dark Purple",
         index: 18
@@ -89,6 +101,14 @@ const COLORS = {
     0xB44AC0: {
         name: "Purple",
         index: 19
+    },
+    0xE4ABFF: {
+        name: "Pale Purple",
+        index: 20
+    },
+    0xDE107F: {
+        name: "Magenta",
+        index: 21
     },
     0xFF3881: {
         name: "Pink",
@@ -106,9 +126,17 @@ const COLORS = {
         name: "Brown",
         index: 25
     },
+    0xFFB470: {
+        name: "Beige",
+        index: 26
+    },
     0x000000: {
         name: "Black",
         index: 27
+    },
+    0x515252: {
+        name: "Dark Gray",
+        index: 28
     },
     0x898D90: {
         name: "Gray",
