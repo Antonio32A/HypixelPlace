@@ -26,6 +26,10 @@ let imageDatas;
 
 
 const COLORS = {
+    0x6D001A: {
+        name: "Burgundy",
+        index: 0
+    },
     0xBE0039: {
         name: "Dark Red",
         index: 1
